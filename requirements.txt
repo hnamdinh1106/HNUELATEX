@@ -1,0 +1,15 @@
+streamlit
+opencv-python
+pytesseract
+selenium
+webdriver-manager
+openai
+Pillow
+os
+rapid_latex_ocr
+logging
+datetime
+numpy
+io
+traceback
+scipy
