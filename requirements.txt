@@ -5,7 +5,6 @@ selenium
 webdriver-manager
 openai
 Pillow
-os
 rapid_latex_ocr
 logging
 datetime
